@@ -38,7 +38,7 @@ Driven by curiosity and rigor, I enjoy building modular APIs, diving into Unix s
 * **Features:** Data cleaning, EDA, Machine Learning models (Random Forest, Regression) with hyperparameter tuning, and an interactive Streamlit dashboard.
 * **Stack:** Python, Pandas, Scikit-Learn, Streamlit, Jupyter.
 
-#### 🐚 Minishell : Unix Shell Réimplementation
+#### [Minishell] : Unix Shell Réimplementation
 *A comprehensive C system programming project rewriting a Unix shell.*
 * **Features:** Built-in commands, process management (`fork`, `execve`), pipes (`|`), redirections (`>`, `<`, `>>`), environment variables, and a custom LL parser.
 * **Stack:** C, Unix API, Memory Management.
